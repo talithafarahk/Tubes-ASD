@@ -250,3 +250,6 @@ address deleteParent(List &L, negara x)
         return NULL;
     }
 }
+
+
+//by 1301164262
