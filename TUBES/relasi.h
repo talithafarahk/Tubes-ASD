@@ -47,3 +47,5 @@ address_relasi find_min(List_relasi &L);
 void del_relasi(List_relasi L,address_relasi &P);
 
 #endif // RELASI_H_INCLUDED
+
+//by 1301164262
