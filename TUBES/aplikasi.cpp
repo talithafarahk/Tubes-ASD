@@ -201,6 +201,7 @@ void relasiID()
 
     if (search_c==NULL || search_p ==NULL)
     {
+
         cout<<"Tidak Terdapat ID Negara / ID Turis"<<endl;
     }
 
@@ -211,6 +212,7 @@ void relasiID()
         cout<<"ID NEGARA : "<<info(search_p).id<<endl;
         cout<<"ID TURIS : "<<info(search_c).id_c<<endl;
         cout<<"STATUS : Berhasil Berelasi"<<endl;
+
     }
 
 }
@@ -221,6 +223,7 @@ void cari_relasi()
     cout<<"Masukkan ID Negara: ";
     cin>>x.id;
     cout<<"Masukkan ID Turis :";
+
     cin>>xx.id_c;
 
     search_p = findElm(Lp,x);
@@ -231,6 +234,7 @@ void cari_relasi()
         AB=search_relasi(Lr, search_p,search_c);
         if (AB!=NULL)
         {
+
             cout<<"Relasi Ditemukan"<<endl;
             cout<<"ID NEGARA : "<<info(search_p).id<<endl;
             cout<<"======== B E R E L A S I ========="<<endl;
@@ -240,6 +244,7 @@ void cari_relasi()
         {
             cout<<"Relasi TIDAK Ditemukan "<<endl;
             cout<<"ID NEGARA : "<<info(search_p).id<<endl;
+
             cout<<"****** T I D A K     B E R E L A S I ******"<<endl;
             cout<<"ID TURIS : "<<info(search_c).id_c<<endl;
         }
@@ -296,3 +301,7 @@ void tampil_relasi()
     sortrelasi(Lr);
     printInfo(Lr);
 }
+
+
+
+//by 1301164262
