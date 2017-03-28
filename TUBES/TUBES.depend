@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1490672177 source:e:\tugas\semester 2\asd\tubes\child.cpp
+	"child.h"
+
+1490605329 e:\tugas\semester 2\asd\tubes\child.h
+	<iostream>
+
+1490640008 source:e:\tugas\semester 2\asd\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"aplikasi.h"
+
+1490629118 e:\tugas\semester 2\asd\tubes\parent.h
+	<iostream>
+
+1490673194 source:e:\tugas\semester 2\asd\tubes\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490677512 e:\tugas\semester 2\asd\tubes\aplikasi.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490677546 source:e:\tugas\semester 2\asd\tubes\aplikasi.cpp
+	<conio.h>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490677555 source:e:\tugas\semester 2\asd\tubes\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490677492 e:\tugas\semester 2\asd\tubes\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490687437 source:c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\child.cpp
+	"child.h"
+
+1490687501 c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\child.h
+	<iostream>
+
+1490678911 source:c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"aplikasi.h"
+
+1490678911 c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\parent.h
+	<iostream>
+
+1490686893 c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\aplikasi.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490686094 c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490681237 source:c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490686033 source:c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490687468 source:c:\users\talitha farah\documents\github\tubes-talitha-mahendra\tubes\aplikasi.cpp
+	<conio.h>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490694300 source:c:\users\diko\downloads\tubes\aplikasi.cpp
+	<conio.h>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490692231 c:\users\diko\downloads\tubes\aplikasi.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490678911 c:\users\diko\downloads\tubes\parent.h
+	<iostream>
+
+1490687501 c:\users\diko\downloads\tubes\child.h
+	<iostream>
+
+1490686094 c:\users\diko\downloads\tubes\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490687437 source:c:\users\diko\downloads\tubes\child.cpp
+	"child.h"
+
+1490678911 source:c:\users\diko\downloads\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"aplikasi.h"
+
+1490693317 source:c:\users\diko\downloads\tubes\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490694644 source:c:\users\diko\downloads\tubes\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490694300 source:c:\users\diko\downloads\tubes\new folder\aplikasi.cpp
+	<conio.h>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490692231 c:\users\diko\downloads\tubes\new folder\aplikasi.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490678911 c:\users\diko\downloads\tubes\new folder\parent.h
+	<iostream>
+
+1490687501 c:\users\diko\downloads\tubes\new folder\child.h
+	<iostream>
+
+1490686094 c:\users\diko\downloads\tubes\new folder\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490687437 source:c:\users\diko\downloads\tubes\new folder\child.cpp
+	"child.h"
+
+1490678911 source:c:\users\diko\downloads\tubes\new folder\main.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"aplikasi.h"
+
+1490693317 source:c:\users\diko\downloads\tubes\new folder\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490694839 source:c:\users\diko\downloads\tubes\new folder\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490705262 source:e:\tugas\semester 2\asd\editdiko\aplikasi.cpp
+	<conio.h>
+	"aplikasi.h"
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490705262 e:\tugas\semester 2\asd\editdiko\aplikasi.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	"parent.h"
+	"child.h"
+	"relasi.h"
+
+1490678911 e:\tugas\semester 2\asd\editdiko\parent.h
+	<iostream>
+
+1490687501 e:\tugas\semester 2\asd\editdiko\child.h
+	<iostream>
+
+1490709500 e:\tugas\semester 2\asd\editdiko\relasi.h
+	"parent.h"
+	"child.h"
+	<iostream>
+
+1490704937 source:e:\tugas\semester 2\asd\editdiko\child.cpp
+	"child.h"
+
+1490678911 source:e:\tugas\semester 2\asd\editdiko\main.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"aplikasi.h"
+
+1490703682 source:e:\tugas\semester 2\asd\editdiko\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490709894 source:e:\tugas\semester 2\asd\editdiko\relasi.cpp
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	<iostream>
+
