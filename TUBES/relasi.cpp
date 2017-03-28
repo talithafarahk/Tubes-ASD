@@ -265,3 +265,6 @@ void sortrelasi(List_relasi &L)
     }
     L=R;
 }
+
+
+//by 1301164262
