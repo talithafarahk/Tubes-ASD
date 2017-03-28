@@ -51,3 +51,5 @@ void insertAscending(List &L, address P);
 address deleteParent(List &L, negara x);
 
 #endif // PARENT_H_INCLUDED
+
+//by 1301164262
