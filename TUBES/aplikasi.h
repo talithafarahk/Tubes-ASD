@@ -1,3 +1,4 @@
+
 #ifndef APLIKASI_H_INCLUDED
 #define APLIKASI_H_INCLUDED
 
@@ -23,3 +24,6 @@ void search_parent();
 void search_child();
 void tampil_relasi();
 #endif // APLIKASI_H_INCLUDED
+
+
+//by 1301164262
